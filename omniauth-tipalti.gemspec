@@ -9,10 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["me@jordanell.com"]
 
   spec.summary = "OmniAuth Oauth2 strategy for Tipalti."
-  spec.description = <<~HEREDOC
-    OmniAuth Oauth2 strategy for Tipalti allowing you to#{" "}
-    connect to a specific Tipalti instance.
-  HEREDOC
+  spec.description = "OmniAuth Oauth2 strategy for Tipalti."
   spec.homepage = "https://github.com/riipen/omniauth-tipalti"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"

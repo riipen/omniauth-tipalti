@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/omniauth-tipalti.svg)](https://badge.fury.io/rb/omniauth-tipalti)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/riipen/omniauth-tipalti/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/riipen/omniauth-tipalti/tree/main)
 
 # OmniAuth Tipalti
