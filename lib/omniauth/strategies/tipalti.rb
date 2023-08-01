@@ -12,6 +12,8 @@ module OmniAuth
              authorize_url: "/connect/authorize/callback",
              token_url: "/connect/token"
 
+      option :pkce, true
+
       uid { nil }
 
       info do
