@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/riipen/omniauth-tipalti/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/riipen/omniauth-tipalti/tree/main)
+
 # OmniAuth Tipalti
 Strategy to authenticate with Tipalti via OAuth2 in OmniAuth.
 
